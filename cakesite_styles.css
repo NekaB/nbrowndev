@@ -1,0 +1,65 @@
+body {
+  background-color: #000000;
+  background-image: url("calum-lewis-rkT_TG5NKF8-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-align: right;
+  background-position: 50% 50%;
+  background-size: cover;
+}
+h1 {
+  text-align: center;
+  background: #ffcce0 ;
+  width: 220px;
+  padding: 1px;
+  border: 4px solid #000000;
+  margin: 10px auto 10px auto;
+  text-align: center;
+  font-family: 'Shadows Into Light', cursive;
+  font-weight: 600;
+}
+h3 { text-align: center;
+     padding: 0px; 
+}
+h4 {
+  width: 400px;
+  padding: 5px;
+  border: 3px solid #000000;
+  text-align: center;
+  background: #ff0066;
+  margin: 5px auto 5px auto;
+  text - align: center;
+  font-family: 'Shadows Into Light', cursive;
+  Font-size: 25px;
+  font-weight: 600;
+  }
+
+ul {
+  width: 500px;
+  padding: 30px;
+  border: 5px solid #000000;
+  background: #ffcce0;
+  margin: 10px auto 10px auto;
+  text-align: left;
+  font-family: 'Shadows Into Light', cursive;
+  Font-size: 20px;
+  font-weight: 600;
+}
+
+img.align-center {
+  display: block;
+  margin: 0px auto;
+}
+  
+footer {
+  width: 300px;
+  padding: 2px;
+  border: 3px solid #000000;
+  background: #ffcce0;
+  margin: 5px auto 5px auto;
+  text-align: center;
+  font-family: 'Shadows Into Light', cursive;
+  Font-size: 20px;
+  font-weight: 600;
+}
+
