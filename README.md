@@ -9,4 +9,4 @@ To view, use, or edit the HTML code, clone the repo onto your local machine wher
 From there, you should be able to copy the file path to `academy_html.html` and paste it into a browser tab to see the website. 
 
 ## Troubleshooting
-Make sure that all images and `.html`, `.jpg`, and `.css` files are in the same directory.
+Make sure that all images and `.html`, `.jpg`, and `.css` files are in the same directory.# nbrowndev
